@@ -1,1 +1,1 @@
-This program implements the sliding window protocol, being able to transfer files of 1MB.
+Efficient implementation of the sliding window protocol, able to transfer files of 1MB.
